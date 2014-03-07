@@ -1,5 +1,11 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+可燃ごみ,,,,#ea3b13
+硬プラ・革製品類,,,,#ff9137
+容器包装プラスチック,,,,#77ae1f
+紙・布類,,,,#bbe400
+びん類,,,,#2dc7aa
+金属類,,,,#81d12e
+ペットボトル,,,,#91dde7
+アルミ缶,,,,#00b7c0
+廃食用油,,,,#733b96
+埋立ごみ,,,,#685ecf
